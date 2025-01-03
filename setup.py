@@ -20,7 +20,8 @@ setup(
         "numpy",
         "polars",
         "matplotlib",
-        "seaborn"
+        "seaborn",
+        "FlowIO"
     ],
     include_package_data=True,
 )
